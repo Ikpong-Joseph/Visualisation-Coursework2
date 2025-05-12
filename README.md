@@ -38,8 +38,8 @@ How to use
 - Run `Spark.ipynb`
 
 This was a group work by 
-- [Ferdinand Ekpo]
-- [Radman Dhurbo]
+- [Ferdinand Ekpo](https://github.com/Ferdyekpo)
+- [Radman Dhurbo](https://github.com/radman-dhurbo)
 - [Iliya Akila]
 - [Ikpong Joseph](https://github.com/Ikpong-Joseph)
 
