@@ -40,6 +40,6 @@ How to use
 This was a group work by 
 - [Ferdinand Ekpo](https://github.com/Ferdyekpo)
 - [Radman Dhurbo](https://github.com/radman-dhurbo)
-- [Iliya Akila]
+- [Iliya Akila](https://github.com/akilailiya)
 - [Ikpong Joseph](https://github.com/Ikpong-Joseph)
 
